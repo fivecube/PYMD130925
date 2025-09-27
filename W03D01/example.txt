@@ -1,0 +1,3 @@
+We are learning Python.
+We have patience and that is why we understand concept and apply them in practice.
+We use places like hackerrank, https://pythontutor.com/render.html#mode=display, www.realpython.org
